@@ -1,0 +1,18 @@
+workflows:
+  flutter-workflow:
+    name: Flutter Build
+    environment:
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+    scripts:
+      - name: Install dependencies
+        script: flutter pub get
+      - name: Run tests
+        script: flutter test
+    artifacts:
+      - build/**/*
+    publishing:
+      email:
+        recipients:
+          - jnwei30@gmail.com
