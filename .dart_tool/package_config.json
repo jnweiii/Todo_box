@@ -242,6 +242,12 @@
       "languageVersion": "3.5"
     },
     {
+      "name": "sqflite_common_ffi",
+      "rootUri": "file:///C:/Users/weiji/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite_common_ffi-2.3.4+3",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
       "name": "sqflite_darwin",
       "rootUri": "file:///C:/Users/weiji/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite_darwin-2.4.1",
       "packageUri": "lib/",
@@ -250,6 +256,12 @@
     {
       "name": "sqflite_platform_interface",
       "rootUri": "file:///C:/Users/weiji/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite_platform_interface-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "sqlite3",
+      "rootUri": "file:///C:/Users/weiji/AppData/Local/Pub/Cache/hosted/pub.dev/sqlite3-2.5.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -290,6 +302,12 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "typed_data",
+      "rootUri": "file:///C:/Users/weiji/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///C:/Users/weiji/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
@@ -320,7 +338,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-11-30T02:55:36.519871Z",
+  "generated": "2024-12-01T03:48:30.752140Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///D:/Flutter/flutter_windows_3.24.5-stable/flutter",
